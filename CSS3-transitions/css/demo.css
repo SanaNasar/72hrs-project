@@ -115,32 +115,14 @@ a{
 	-webkit-box-shadow: 1px 0px 2px #000;
 	box-shadow: 1px 0px 2px #000;
 }
-.codrops-top a{
-	padding: 0px 10px;
-	letter-spacing: 1px;
-	color: #ddd;
-	display: block;
-	float: left;
-}
-.codrops-top a:hover{
-	color: #fff;
-}
-.codrops-top span.right{
-	float: right;
-}
-.codrops-top span.right a{
-	float: none;
-	display: inline;
-}
-
-p.codrops-demos{
+p.code-demos{
 	text-align:center;
 	display: block;
 	padding: 14px;
 }
-p.codrops-demos a,
-p.codrops-demos a.current-demo,
-p.codrops-demos a.current-demo:hover{
+p.code-demos a,
+p.code-demos a.current-demo,
+p.code-demos a.current-demo:hover{
     display: inline-block;
 	border: 1px solid #ddd;
 	border-color: #ddd #aaa #aaa #ddd;
@@ -165,10 +147,10 @@ p.codrops-demos a.current-demo:hover{
 	background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 47%,#ededed 100%);
 	background: linear-gradient(top, #ffffff 0%,#f6f6f6 47%,#ededed 100%);
 }
-p.codrops-demos a:hover{
+p.code-demos a:hover{
 	background: #fff;
 }
-p.codrops-demos a:active{
+p.code-demos a:active{
 	background: #e5e5e5;
 	background: -moz-linear-gradient(top, #e5e5e5 0%, #ffffff 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#ffffff));
@@ -180,8 +162,8 @@ p.codrops-demos a:active{
 	-moz-box-shadow:0px 1px 1px rgba(255,255,255,0.9);
 	box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
 }
-p.codrops-demos a.current-demo,
-p.codrops-demos a.current-demo:hover{
+p.code-demos a.current-demo,
+p.code-demos a.current-demo:hover{
 	color: #999;
 }
 /* Media Queries */
@@ -189,7 +171,7 @@ p.codrops-demos a.current-demo:hover{
 	.container > header{
 		text-align: center;
 	}
-	p.codrops-demos {
+	p.code-demos {
 		position: relative;
 		top: auto;
 		left: auto;
