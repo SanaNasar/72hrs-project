@@ -16,3 +16,4 @@ This project was a motivation to experiment with a new technology and hone my fr
 ## For tutorials
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
 * [css3 transitions guide](http://www.adobe.com/devnet/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
+* [HTML5 canvas tutorial](http://www.html5canvastutorials.com)
