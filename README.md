@@ -15,7 +15,10 @@ This project was a motivation to experiment with a new technology and hone my fr
 
 ## For tutorials
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
-* [css3 transitions guide](http://www.adobe.com/devnet/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
+* [CSS3 transitions guide](http://www.adobe.com/devnet/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
 * [HTML5 canvas tutorial](http://www.html5canvastutorials.com)
-* [css-animations tutorial](http://www.the-art-of-web.com/css/css-animation/)
+* [CSS-animations tutorial](http://www.the-art-of-web.com/css/css-animation/)
+* [Web developer guide to canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Intro to HTML5 canvas- SitePoint](http://www.sitepoint.com/html5-canvas-tutorial-introduction/)
+
 
